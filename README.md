@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭i'm currently working as a Phaser Game Developer at Br Softech<br>📚i'have completed MCA in 2025<br>💻and interested in develope meaningfull software .
+🔭i'm currently working as a Phaser Game Developer at Br Softech<br>📚i'have completed MCA in 2025<br>💻and interested in developing meaningfull softwares.
 
 
 ## 🌐 Socials:
